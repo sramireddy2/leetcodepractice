@@ -1,4 +1,4 @@
-# Leetcode Tracker — @sramireddy2
+# Leetcode Tracker
 ---
 
 ## Repository structure
